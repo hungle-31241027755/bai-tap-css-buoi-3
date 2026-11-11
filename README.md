@@ -18,4 +18,3 @@ Mở `index.html` bằng trình duyệt, sau đó chọn từng bài. Các trang
 ## GitHub
 
 - Repository: https://github.com/hungle-31241027755/bai-tap-css-buoi-3
-- Trang bài tập: https://hungle-31241027755.github.io/bai-tap-css-buoi-3/
